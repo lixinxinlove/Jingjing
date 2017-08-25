@@ -14,7 +14,7 @@
         app:tsquare_dayBackground="@drawable/my_calendar_bg_selector"
         app:tsquare_headerTextColor="@android:color/black"
         app:tsquare_titleTextColor="@android:color/black"
-        app:tsquare_dayTextColor="@android:color/black"
+
         app:tsquare_dividerColor="@android:color/black"
         app:tsquare_displayHeader="true"
         android:layout_width="match_parent"
